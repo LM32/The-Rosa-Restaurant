@@ -28,8 +28,6 @@ window.addEventListener('click', function(e) {
 });
 
 
-//time @ 34:00 for menu option
-
 
 //Scroll Reveal Start
 
